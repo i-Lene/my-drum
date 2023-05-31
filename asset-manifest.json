@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/i-Lene/my-drum/static/css/main.1517667b.css",
+    "main.js": "/i-Lene/my-drum/static/js/main.5128832f.js",
+    "index.html": "/i-Lene/my-drum/index.html",
+    "main.1517667b.css.map": "/i-Lene/my-drum/static/css/main.1517667b.css.map",
+    "main.5128832f.js.map": "/i-Lene/my-drum/static/js/main.5128832f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1517667b.css",
+    "static/js/main.5128832f.js"
+  ]
+}
