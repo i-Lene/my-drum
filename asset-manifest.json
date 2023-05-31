@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/i-Lene/my-drum/static/css/main.1517667b.css",
-    "main.js": "/i-Lene/my-drum/static/js/main.5128832f.js",
+    "main.js": "/i-Lene/my-drum/static/js/main.82c3fac1.js",
     "index.html": "/i-Lene/my-drum/index.html",
     "main.1517667b.css.map": "/i-Lene/my-drum/static/css/main.1517667b.css.map",
-    "main.5128832f.js.map": "/i-Lene/my-drum/static/js/main.5128832f.js.map"
+    "main.82c3fac1.js.map": "/i-Lene/my-drum/static/js/main.82c3fac1.js.map"
   },
   "entrypoints": [
     "static/css/main.1517667b.css",
-    "static/js/main.5128832f.js"
+    "static/js/main.82c3fac1.js"
   ]
 }
