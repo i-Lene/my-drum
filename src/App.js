@@ -118,12 +118,13 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className='text'>Let's Make Some Noise!</h1>
+      <h1 className='text'>Let's Make Some Noise!!</h1>
       <div className='drum-wrapper'>
         {all_keys}
       </div>
     </div>
   );
 }
+
 
 export default App;
