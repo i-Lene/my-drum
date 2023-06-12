@@ -4,8 +4,7 @@ export default function Keys(props) {
             className={`drum-key ${props.letter}`}
             onClick={props.click}
             onKeyDown={props.keyDown}
-            tabIndex={0}
-        >
+            tabIndex={0}>
             {props.letter}
         </div>
     )
