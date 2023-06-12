@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/i-Lene/my-drum/static/css/main.1517667b.css",
-    "main.js": "/i-Lene/my-drum/static/js/main.82c3fac1.js",
-    "index.html": "/i-Lene/my-drum/index.html",
-    "main.1517667b.css.map": "/i-Lene/my-drum/static/css/main.1517667b.css.map",
-    "main.82c3fac1.js.map": "/i-Lene/my-drum/static/js/main.82c3fac1.js.map"
+    "main.css": "/my-drum/static/css/main.1517667b.css",
+    "main.js": "/my-drum/static/js/main.82c3fac1.js",
+    "index.html": "/my-drum/index.html",
+    "main.1517667b.css.map": "/my-drum/static/css/main.1517667b.css.map",
+    "main.82c3fac1.js.map": "/my-drum/static/js/main.82c3fac1.js.map"
   },
   "entrypoints": [
     "static/css/main.1517667b.css",
