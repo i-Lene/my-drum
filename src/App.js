@@ -41,22 +41,26 @@ function App() {
       case 's':
         let audio5 = new Audio('https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3');
         audio5.play();
+        setSameLetter(letter)
         break;
       case 'd':
         let audio6 = new Audio('https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3');
         audio6.play();
+        setSameLetter(letter)
         break;
       case 'z':
         let audio7 = new Audio('https://s3.amazonaws.com/freecodecamp/drums/Bld_H1.mp3');
         audio7.play();
+        setSameLetter(letter)
         break;
       case 'x':
         let audio8 = new Audio('https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3');
         audio8.play();
         break;
-      case 'c':
+      case 'cdd':
         let audio9 = new Audio('https://s3.amazonaws.com/freecodecamp/drums/Chord_1.mp3');
         audio9.play();
+        setSameLetter(letter)
         break;
       default:
         return '';
