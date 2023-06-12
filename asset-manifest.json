@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-drum/static/css/main.f689f148.css",
-    "main.js": "/my-drum/static/js/main.8f041c43.js",
+    "main.js": "/my-drum/static/js/main.504a71b5.js",
     "index.html": "/my-drum/index.html",
     "main.f689f148.css.map": "/my-drum/static/css/main.f689f148.css.map",
-    "main.8f041c43.js.map": "/my-drum/static/js/main.8f041c43.js.map"
+    "main.504a71b5.js.map": "/my-drum/static/js/main.504a71b5.js.map"
   },
   "entrypoints": [
     "static/css/main.f689f148.css",
-    "static/js/main.8f041c43.js"
+    "static/js/main.504a71b5.js"
   ]
 }
